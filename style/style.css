@@ -78,3 +78,7 @@ ul{
     line-height: 79px;
 
 }
+.main{
+    background: black;
+    height: 100vh;
+}
